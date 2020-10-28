@@ -6,5 +6,7 @@ You can find Problem Statement [here](Problem_Statement.pdf)
 
 And the Arena looks like
 
-<img src="mainArena.jpg" width="55%">
+<div align="center">
+    <img src="mainArena.jpg" width="55%">
+</div>
 

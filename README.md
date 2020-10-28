@@ -12,7 +12,7 @@ And the Arena looks like
 
 and 
 
-<video width="800" height="400" controls>
+<video width="320" height="240" controls>
     <source src="assets/clip.mp4" type="video/mp4">
 </video>
 

@@ -10,10 +10,4 @@ And the Arena looks like
     <img src="assets/mainArena.jpg" width="55%">
 </div>
 
-and 
-
-<video width="320" height="240" controls>
-    <source src="assets/clip.mp4" type="video/mp4">
-</video>
-
-![alt](assets/clip.mp4)
+and

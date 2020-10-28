@@ -12,9 +12,7 @@ And the Arena looks like
 
 and 
 
-<div>
-    <video width="800" height="400" autoplay loop>
-  <source src="assets/clip.mp4" type="video/mp4">
-    </video>
-</div>
+<video width="800" height="400" autoplay loop>
+    <source src="assets/clip.mp4" type="video/mp4">
+</video>
 

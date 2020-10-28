@@ -16,3 +16,4 @@ and
     <source src="assets/clip.mp4" type="video/mp4">
 </video>
 
+![alt](assets/clip.mp4)

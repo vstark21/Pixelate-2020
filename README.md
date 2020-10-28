@@ -9,12 +9,9 @@ And the Arena looks like
 <div align="center">
     <img src="assets/mainArena.jpg" width="55%">
 </div>
-
 and 
 
-<div>
-    <video width="800" height="400" autoplay loop>
-  <source src="assets/clip.mp4" type="video/mp4">
-    </video>
+<div align="center">
+    <img src="assets/clip.gif">
 </div>
 
